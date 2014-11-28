@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 
 <students>
@@ -57,5 +58,13 @@
         <github>kbaranski</github>
         <group>KrZZIs3011Si</group>
     </student>
+	<student>
+	<firstname>Kamil</firstname>
+	<lastname>Norowski</lastname>
+	<email>kamilnorowski@poczta.fm</email>
+	<github>pikaczuxp</github>
+`	<group>KrZZIs2011Io</group>
+</student>
+
 
 </students>
